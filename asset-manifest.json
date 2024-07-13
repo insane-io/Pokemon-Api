@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insane.io.github.io/Pokemonapi/static/css/main.a274dd1a.css",
+    "main.js": "/insane.io.github.io/Pokemonapi/static/js/main.1e47c006.js",
+    "static/js/453.c09a555b.chunk.js": "/insane.io.github.io/Pokemonapi/static/js/453.c09a555b.chunk.js",
+    "index.html": "/insane.io.github.io/Pokemonapi/index.html",
+    "main.a274dd1a.css.map": "/insane.io.github.io/Pokemonapi/static/css/main.a274dd1a.css.map",
+    "main.1e47c006.js.map": "/insane.io.github.io/Pokemonapi/static/js/main.1e47c006.js.map",
+    "453.c09a555b.chunk.js.map": "/insane.io.github.io/Pokemonapi/static/js/453.c09a555b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a274dd1a.css",
+    "static/js/main.1e47c006.js"
+  ]
+}
